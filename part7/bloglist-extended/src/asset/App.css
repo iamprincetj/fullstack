@@ -1,0 +1,7 @@
+.notify {
+    height: 1rem;
+    background-color: rgb(210, 208, 208);
+    line-height: 1rem;
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+}
